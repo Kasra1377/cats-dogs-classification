@@ -16,12 +16,12 @@
 ---
 In this section you can see the outputs of both models:
 #### CNN's Output
----
+
 ![alt text](/demo/results/cnn/result-01.png)
 ![alt text](/demo/results/cnn/result-03.png)
 
 #### MobileNetV2's Output
----
+
 ![alt text](/demo/results/mobilenetv2/result-01.png)
 ![alt text](/demo/results/mobilenetv2/result-03.png)
 
